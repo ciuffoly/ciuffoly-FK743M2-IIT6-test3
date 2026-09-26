@@ -1,12 +1,8 @@
 # FK743M2-IIT6 cheap module with STM32H743IIT6 and 4.3" 800x480 RGB LCD 
 
-A minimal **STM32CubeIDE** bring-up project for the **FK743M2-IIT6** development board featuring the **STM32H743IIT6**, external **SDRAM**, and a **7-inch 800x480 RGB LCD**.
+A minimal **STM32CubeIDE** bring-up project for the **FK743M2-IIT6** development board featuring the **STM32H743IIT6**, external **SDRAM**, and a 800x480 RGB LCD.
 
-This repository provides a **known-good starting point** for this specific board/display combination. Because documentation is scarce, this project aims to save developers significant debugging time by providing a validated hardware configuration.
-
-This is NOT "vibe coded" — it is a validated hardware configuration designed to save debugging time on LTDC timing, FMC signal integrity, DMA2D integration, and LVGL bring-up.
-
----
+<img width="341" height="379" alt="image" src="https://github.com/user-attachments/assets/dc0974b3-dee0-41b8-867f-4affd812fe04" />
 
 ## 🚀 Overview
 
