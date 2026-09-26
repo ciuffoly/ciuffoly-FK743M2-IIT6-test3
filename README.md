@@ -29,7 +29,7 @@ https://github.com/republicofmakers/SW-MCU-STM32-ExtLoader-006/tree/main
 <BR>
 <a href="https://www.alibaba.com/product-detail/STM32H743IIT6-STM32H743-Core-Board-System-Learning_1601883330328.html">Alibaba</a>
 <BR>
-<a href="https://item.taobao.com/item.htm?from=cart&amp;id=654531454761">
+<a href="https://item.taobao.com/item.htm?from=cart&amp;id=654531454761">TaoBao</A>
 <BR>
 <img width="341" height="379" alt="image" src="https://github.com/user-attachments/assets/597e0ea7-4dc3-4512-a7df-242e16116586" />
 <BR>
