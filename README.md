@@ -1,4 +1,4 @@
-# FK743M2-IIT6 + 7" RGB LCD 
+# FK743M2-IIT6 cheap module with STM32H743IIT6 and 4.3" 800x480 RGB LCD 
 
 A minimal **STM32CubeIDE** bring-up project for the **FK743M2-IIT6** development board featuring the **STM32H743IIT6**, external **SDRAM**, and a **7-inch 800x480 RGB LCD**.
 
