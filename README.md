@@ -44,7 +44,7 @@ Web shop
 <BR>
 <img width="1999" height="1414" alt="canvas" src="https://github.com/user-attachments/assets/549072dc-80bd-4bba-8f87-500b9fecdf34" />
 <BR>
-[STM32H743IIT6schematic diagram.pdf](https://github.com/user-attachments/files/32684857/STM32H743IIT6schematic.diagram.pdf)
+[FK743M2-IIT6(排针版)原理图.pdf](https://github.com/user-attachments/files/32694991/FK743M2-IIT6.pdf)
 
 
 
