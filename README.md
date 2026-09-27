@@ -38,7 +38,11 @@ Web shop
 <BR>
 <img width="341" height="379" alt="image" src="https://github.com/user-attachments/assets/597e0ea7-4dc3-4512-a7df-242e16116586" />
 <BR>
+<img width="899" height="1349" alt="ph1" src="https://github.com/user-attachments/assets/07bb4e40-6e7e-46bb-950c-5b9035b86c39" />
+<BR>
 <img width="629" height="670" alt="STM32_with_LCD" src="https://github.com/user-attachments/assets/2c10b91c-15ea-41cb-9780-db6f695b49ce" />
+<BR>
+<img width="800" height="800" alt="H6baf0eb9780c4f009247c9895d6f69dep" src="https://github.com/user-attachments/assets/dcfafbe9-1852-4263-ab97-25218ea94ac9" />
 <BR>
 <img width="800" height="800" alt="Hbcb021e2b21d4f038ddb31c55b068504V" src="https://github.com/user-attachments/assets/df9001f4-18de-4031-9d11-c600758dc0ea" />
 <BR>
