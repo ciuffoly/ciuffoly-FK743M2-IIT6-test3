@@ -35,10 +35,9 @@ Web shop
 <a href="https://item.taobao.com/item.htm?from=cart&amp;id=654531454761">TaoBao</A>
 <BR>
 <BR>
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/93aebbe5-21d1-456b-8b81-f24e3e38c14f" />
 <BR>
-<img width="341" height="379" alt="image" src="https://github.com/user-attachments/assets/597e0ea7-4dc3-4512-a7df-242e16116586" />
-<BR>
-<img width="899" height="1349" alt="ph1" src="https://github.com/user-attachments/assets/07bb4e40-6e7e-46bb-950c-5b9035b86c39" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/57dd5d12-015b-4d9e-8b37-bce82120b3f2" />
 <BR>
 <img width="629" height="670" alt="STM32_with_LCD" src="https://github.com/user-attachments/assets/2c10b91c-15ea-41cb-9780-db6f695b49ce" />
 <BR>
